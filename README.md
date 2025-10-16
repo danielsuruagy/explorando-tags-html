@@ -3,9 +3,8 @@
 Este projeto foi criado para demonstrar conceitos básicos e intermediários da linguagem. Ele apresenta títulos, parágrafos, listas, links internos e externos, além de diversas formatações de texto e elementos de destaque. O objetivo é servir como guia prático para iniciantes em HTML.
 
 ## 🖥️ Tecnologias Utilizadas
-- **HTML5** – Estrutura de documentos, títulos, parágrafos, listas, links e formatação de texto.
-- **CSS inline básico** – Aplicação de cores e destaques simples (`<font>` e `<mark>`).
-- **Navegação interna** – Uso de âncoras (`<a href="#id">`) para facilitar o acesso aos tópicos.
+- **HTML5**
+- **CSS3**
 
 ## 🚀 Funcionalidades
 - Diferenciação entre listas ordenadas e não ordenadas.
